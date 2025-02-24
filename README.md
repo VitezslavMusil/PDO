@@ -3,7 +3,7 @@
 ## Účel Archidektu
 Archidekt je webová aplikace jenž slouží ke konstrukci balíků karetní hry Magic the Gathering. Aplikace nevyžaduje extenzivní znalosti pro užití, ale detailní statistiky pro tuze vášnivé hráče jsou k dipozici.
 
-## Pro koho je aplikace určena? 
+## Kdo všechno aplikaci používá? 
 ### Nenáročný hráč
 Archidekt je jednoduše použitelný pro nenáročné hráče. Stačí vytvořit účet, zvolit formát nového balíčku (Modern, Commander atd.) a dále pouze přidávat karty dle názvu.
 
