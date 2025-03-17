@@ -4,7 +4,5 @@ This Git repository serves as documentation regarding Archidekt - An online, fre
 
 ## Contents
 The following is a part of this documentation:
-- **Initial deck setup** - Simple creation of a new, empty deck
-- **Adding cards** - Quick add, add using basic Scryfall syntax
-- **Deck structure** - Organization of categories and color tags
-- **TBA** - 
+- **[Deckbuilder rundown](https://github.com/VitezslavMusil/PDO/blob/main/deck_builder.md)** - Overview of the deckbuilder tool
+- **[Card manipulation](https://github.com/VitezslavMusil/PDO/blob/main/card_manipulation.md)** - Quick add, add using basic Scryfall syntax
