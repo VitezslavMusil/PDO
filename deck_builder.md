@@ -28,7 +28,7 @@ Below are some details in certain that might get confusing otherwise
 
 ### Card section
 - Dsipalys cards based on the deck filters criteria
-- [Card manipulation][https://github.com/VitezslavMusil/PDO/blob/main/card_manipulation.md]
+- [Card manipulation](https://github.com/VitezslavMusil/PDO/blob/main/card_manipulation.md)
 
 ### Deck stats
 - Clicking on mana symbols or columns highlights cards fitting the cirteria (e.g. clicking on the column 6 in Red Spells higlights all red spells costing 6 mana)
