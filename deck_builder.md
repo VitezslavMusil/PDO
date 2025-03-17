@@ -17,14 +17,14 @@ Following contents are listed from top to bootom of Archidekt's deckbulding tool
 Below are some details in certain that might get confusing otherwise
 ### Deck overview
 - **Est deck cost** - Dependent on the currently chosen retailer in the Deck Filters section. Retailer in the left option is applied.
-- **Salt sum** - The total amount of salt you deck induces based on the annual salt survey of [EDHRec][https://edhrec.com/] users. Card are voted on being salty on a 0-4 scale. [Salty cards list][https://edhrec.com/top/salt]
+- **Salt sum** - The total amount of salt you deck induces based on the annual salt survey of [EDHRec](https://edhrec.com/) users. Card are voted on being salty on a 0-4 scale. [Salty cards list](https://edhrec.com/top/salt)
 - **Collaborate** - Allows other users of your choice to edit this deck outside of the main settings (Great for making a deck with friends!)
 
 ### Deck filters
 - **Group by** - Groups cards by criteria into blocks depending on current View As option
 - **Sort by** - Sorts cards in blocks by certain criteria, does not change blocks
 - **Price sources** - Current option for calculating the monetyra price of the deck. Left one is primary (Used for total price displayed in Deck overwiev), right one secondary
-- **Deck filter searchbar** - Unless empty, card section displays only cards fitting the criteria in this searchbar using [Scryfall syntax][https://scryfall.com/docs/syntax]
+- **Deck filter searchbar** - Unless empty, card section displays only cards fitting the criteria in this searchbar using [Scryfall syntax](https://scryfall.com/docs/syntax)
 
 ### Card section
 - Dsipalys cards based on the deck filters criteria
