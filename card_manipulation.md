@@ -16,7 +16,7 @@ The View As being refered here is Archidekt's default, Stacks
  - **Deck Import** - You may import lists or entire decks from a text file adhering to listed formats
 
 ## Card categories
-- Unless specified, Archidekt has a default category for every card (Ramp for [TRampant Growth](https://scryfall.com/card/dsc/193/rampant-growth), Draw for [Quick Study](https://scryfall.com/card/fdn/513/quick-study) etc.)
+- Unless specified, Archidekt has a default category for every card (Ramp for [Rampant Growth](https://scryfall.com/card/dsc/193/rampant-growth), Draw for [Quick Study](https://scryfall.com/card/fdn/513/quick-study) etc.)
 - Cards that are either modular or do multiple things at once can be autoassigned to different categories even though they are functionaly identical, e.g. [Wildfire](https://scryfall.com/card/mm2/134/wildfire) being autoassigned into Removal while [Destructive Force](https://scryfall.com/card/m11/133/destructive-force) is considered Land Destruction
 - While cards are Grouped as Categories, they can be freely moved from one category to another using Drag & Drop
 - Cards can be moved from one category to another using either right click => Move to Category, or by opening the menu of a card (Hover over + O or clicking the arrow on the right side fo the card)
