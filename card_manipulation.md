@@ -1,6 +1,6 @@
 # Card manipulation
 
-Archidekt's deckbuilder tool can manipulate cards in multitude of ways. Thanks to It's integration with [EDHRec]() It can handily recommend cards that are staples in for any chosen commander and due to integration with [Commander Spellbook](https://github.com/VitezslavMusil/PDO/blob/main/card_manipulation.md) can list combos included or almost included in your deck. Optimization for cheapest, fanciest, newest or oldest cards across the deck is done with a few clicks.
+Archidekt's deckbuilder tool can manipulate cards in multitude of ways. Thanks to It's integration with [EDHRec](https://edhrec.com/) It can handily recommend cards that are staples in for any chosen commander and due to integration with [Commander Spellbook](https://github.com/VitezslavMusil/PDO/blob/main/card_manipulation.md) can list combos included or almost included in your deck. Optimization for cheapest, fanciest, newest or oldest cards across the deck is done with a few clicks.
 
 The View As being refered here is Archidekt's default, Stacks
 
