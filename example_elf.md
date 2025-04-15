@@ -61,7 +61,7 @@ After we are done adding cards, all that is left is adding a landbase. We will a
 Archidekt (as well as many other sites) accept predefined formats of card lists, with the simplest being shown [here](https://github.com/VitezslavMusil/PDO/blob/main/import_landbase_example.txt).
 
 1. In the deck overview, click the "Import cards" button.
-2. You will see a list of already included cards. **DO NOT DELETE OF OF THE TEXT, IT WILL REMOVE CARDS FROM THE DECK**
+2. You will see a list of already included cards. **DO NOT DELETE ANY OF THE TEXT, IT WILL REMOVE CARDS FROM THE DECK**
 3. At the end of the document, paste the text from the list of cards you want to include.
 4. At the bottom of the list on the list on the right side, click "Save changes".
 5. Close the menu. You should now see the importred cards in the card section.
