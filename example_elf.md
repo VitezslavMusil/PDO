@@ -3,6 +3,9 @@
 This example guides you through making an Elf tribal with [Lathril, Blade of the Elves](https://scryfall.com/card/fdn/242/lathril-blade-of-the-elves) in the command zone.
 Various methods for card manipulation will be used with the resulting decklist availible [here](https://archidekt.com/decks/12532933/lahtril_blade_of_the_elves_pdo)
 
+- [Deck builder rundown](https://github.com/VitezslavMusil/PDO/blob/main/deck_builder.md)
+- [Card manipulation](https://github.com/VitezslavMusil/PDO/blob/main/card_manipulation.md)
+
 ## Creating a new deck
 1. If you have an account, log in. If not, please register first. **You will not be able to save your deck without an account**
 2. On the main screen, click the orange "New Deck" button
