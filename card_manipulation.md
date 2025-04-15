@@ -24,4 +24,4 @@ The View As being refered here is Archidekt's default, Stacks
 ## Changing the printing of a card
 - Open the card menu (Hover over + O or clicking the arrow on the right side fo the card)
 - Use the printing bar by either entering a set name, set code (e.g. BRO for The Brother's War, MRD for Mirrodin) or the collector number (Foun at the bottom of most cards)
-- All printings can be viewed by click the All Printings button
+- All versions/arts of a card can be viewed by click the All Printings button in the card menu
