@@ -18,6 +18,6 @@ In the case of more complicated decks like manual Storm, Blink or other decks th
 
 While Atchidekt's playtester **has no direct ways to create a session with multiple people, the Popup function can be used to initiate multiplayer through third party software allowing to stream your screen**
 
-The Popup playtester has different characteristics than the full version. Whatever happens in one instance does happen in the other. The Popup instance has always a hidden hand, cards cannot be dragged there and in no almost no options can be adjusted here.
+The Popup playtester has different characteristics than the full version. Whatever happens in one instance does happen in the other. The Popup instance has always a hidden hand, cards cannot be dragged there and almost no options can be adjusted here.
 The main function of the Popout is to be streamed to other people allowing you to play with someone else using software such as [Discord](https://discord.com/) or with the combination of [OBS](https://obsproject.com/) and [Spelltable](https://spelltable.wizards.com/).
 You as the player will perform the main game actions in the original Playtester instance.
