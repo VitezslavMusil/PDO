@@ -53,7 +53,7 @@ After we are done adding cards, all that is left is adding a landbase. We will a
 
 1. In the deck filters bar, click the orange "Card search" button.
 2. In the now displayed menu, click the "Landbase" section in the top bar.
-3. 4. At the top of the menu in he right side, click on the green "Search" button.
+3. At the top of the menu in he right side, click on the green "Search" button.
 5. Now you have a list of cards that adhere to your criteria (Land cards adhering to your decks color identity). To add a card, simply click the plus sign on the card you want to add to your decks.
 6. After you are done adding cards, click close and you will see all the cards you added in your deck.
 
