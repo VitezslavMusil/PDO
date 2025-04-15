@@ -2,11 +2,11 @@
 
 The Card menu can be accessed by either pressing the aroow on the right side of the card or by hovering over the card and pressing O.
 
-**Card options** - Customize/specify parameters of a certain card, from choosing the version best to your liking to adding multiple categories to that card.
-**In decks** - Decks that **you made** containing a certain card, be It only by the card name or also more specificaly in versions (e.g. [Gadwick, the Wizened](https://scryfall.com/card/eld/48/gadwick-the-wizened) from Throne of Eldraine).
-**Collection records** - Shows If a certain card is in your collection or not (and which versions)
-**Card info** - Rules text, mana cost, salt score, collector's number, legality etc.
-**Rulings** - Clarification of certain interactions of a certain card, pulled from [Gatherer](https://gatherer.wizards.com/Pages/Default.aspx).
+1. **Card options** - Customize/specify parameters of a certain card, from choosing the version best to your liking to adding multiple categories to that card.
+2. **In decks** - Decks that **you made** containing a certain card, be It only by the card name or also more specificaly in versions (e.g. [Gadwick, the Wizened](https://scryfall.com/card/eld/48/gadwick-the-wizened) from Throne of Eldraine).
+3. **Collection records** - Shows If a certain card is in your collection or not (and which versions)
+4. **Card info** - Rules text, mana cost, salt score, collector's number, legality etc.
+5. **Rulings** - Clarification of certain interactions of a certain card, pulled from [Gatherer](https://gatherer.wizards.com/Pages/Default.aspx).
 
 ## Card options
  - **Printing** - Currently used version of a certain card, complete with colector's number and a preview on the left side
