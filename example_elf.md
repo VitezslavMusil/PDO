@@ -37,7 +37,7 @@ We added a few cards we know form the top of the head. To find us more cards of 
 10. After you are done adding cards, click close and you will see all the cards you added in your deck.
 
 
-## Adding card by Scryfall syntax
+## Adding cards by Scryfall syntax
 After adding a few more cards from Archidekt search, let's use something a bit quicker: [Scryfall syntax](https://scryfall.com/docs/syntax).
 We will add some noncreature Elf cards, like [Elvish Promenade](https://scryfall.com/card/khc/59/elvish-promenade).
 
@@ -57,7 +57,7 @@ After we are done adding cards, all that is left is adding a landbase. We will a
 5. Now you have a list of cards that adhere to your criteria (Land cards adhering to your decks color identity). To add a card, simply click the plus sign on the card you want to add to your decks.
 6. After you are done adding cards, click close and you will see all the cards you added in your deck.
 
-## Addign cards by Import cards
+## Adding cards by Import cards
 Archidekt (as well as many other sites) accept predefined formats of card lists, with the simplest being shown [here](https://github.com/VitezslavMusil/PDO/blob/main/import_landbase_example.txt).
 
 1. In the deck overview, click the "Import cards" button.
