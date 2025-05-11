@@ -1,67 +1,76 @@
-# Making and Elf deck
+# Making an Elf Deck
 
-This example guides you through making an Elf tribal with [Lathril, Blade of the Elves](https://scryfall.com/card/fdn/242/lathril-blade-of-the-elves) in the command zone.
-Various methods for card manipulation will be used with the resulting decklist availible [here](https://archidekt.com/decks/12532933/lahtril_blade_of_the_elves_pdo).
+This example guides you through making an Elf tribal deck with [Lathril, Blade of the Elves](https://scryfall.com/card/fdn/242/lathril-blade-of-the-elves) in the command zone.  
+Various methods for card manipulation will be used, with the resulting decklist available [here](https://archidekt.com/decks/12532933/lathril_blade_of_the_elves_pdo).
 
 - [Deck builder rundown](https://github.com/VitezslavMusil/PDO/blob/main/deck_builder.md)
 - [Card manipulation](https://github.com/VitezslavMusil/PDO/blob/main/card_manipulation.md)
 
-## Creating a new deck
-1. If you have an account, log in. If not, please register first. **You will not be able to save your deck without an account**
-2. On the main screen, click the orange "New Deck" button
-3. You will be presented with a new deck option screen. Enter your deck name (Lahtril, Blade of the Elves (PDO) in this case), set the format to "Commander".
-4. Scroll down until you see the "Command zone" field and enter the name of your commander (Lahtril, Blade of the Elves in this case).
-5. Click the green "Create deck" button and a new, blank deck with the commander is ready to be built.
+## Creating a New Deck
 
-## Adding cards by Quick add
-There are certain cards that are autoinclude in Elves, like [Priest of Titania](https://scryfall.com/card/mh3/286/priest-of-titania) or [Llanowar Elves](https://scryfall.com/card/fdn/227/llanowar-elves), so we can add these easily using the Quick Search options.
+1. If you have an account, log in. If not, please register first.  
+   **You will not be able to save your deck without an account.**
+2. On the main screen, click the orange **"New Deck"** button.
+3. You will be presented with a new deck options screen. Enter your deck name (*Lathril, Blade of the Elves (PDO)* in this case), and set the format to **Commander**.
+4. Scroll down until you see the **"Command Zone"** field and enter the name of your commander (*Lathril, Blade of the Elves* in this case).
+5. Click the green **"Create Deck"** button. A new, blank deck with your commander will now be ready to build.
 
-**NOTE: This method displays only the card names before you add them to your deck. This might result in adding different cards with similar names thanks to autocomplete.**
+## Adding Cards via Quick Add
 
-1. In the deck filters bar, next to the orange "Card search", click into the "Quick Add" field.
-2. Type in part/whole name of a certain card ([Priest of Titania](https://scryfall.com/card/mh3/286/priest-of-titania) in this case) and click on the result with the name of the card you are searching for.
-3. The card is now added to your deck. You can proceed to add more cards this way.
+There are certain cards that are auto-includes in Elf decks, like [Priest of Titania](https://scryfall.com/card/mh3/286/priest-of-titania) or [Llanowar Elves](https://scryfall.com/card/fdn/227/llanowar-elves). We can add these quickly using the **Quick Add** option.
 
-## Adding cards by Archidekt search
-We added a few cards we know form the top of the head. To find us more cards of the desired type (Elf creatures in this case), we are going to use the Archidekt search.
+> **NOTE:** This method displays only card names before you add them to your deck. This may result in adding different cards with similar names due to autocomplete.
 
-1. In the deck filters bar, click the orange "Card search" button.
-2. In the now displayed menu, click the "Archidekt search" section in the top bar.
-3. Open up the "Advanced options". You will see a lot of empty fields with placeholder text.
-4. On the top of the "Advaced options", you will see six mana symbols. Tick off all the symbols that are excluded out of your color identity (Red, Blue and White in this case).
-5. On the right side of the mana sybols, make sure the "Options" is set to "Identity".
-6. Click the "Type" field, choose the card type you want to search for ("Creature" in this case), then click the field again.
-7. In the "Subtype" field, type the subtype you want to search for ("Elf" in this case), then press enter.
-8. At the top of the menu in he right side, click on the green "Search" button.
-9. Now you have a list of cards that adhere to your criteria (All creature elves with the identity of GB in this case). To add a card, simply click the plus sign on the card you want to add to your decks.
-10. After you are done adding cards, click close and you will see all the cards you added in your deck.
+1. In the deck filters bar, next to the orange **"Card Search"**, click into the **"Quick Add"** field.
+2. Type in part or the full name of the card (*Priest of Titania* in this case) and click on the correct result.
+3. The card is now added to your deck. You can continue adding cards in this way.
 
+## Adding Cards via Archidekt Search
 
-## Adding cards by Scryfall syntax
-After adding a few more cards from Archidekt search, let's use something a bit quicker: [Scryfall syntax](https://scryfall.com/docs/syntax).
-We will add some noncreature Elf cards, like [Elvish Promenade](https://scryfall.com/card/khc/59/elvish-promenade).
+We’ve added a few cards we know off the top of our head. To find more cards of the desired type (Elf creatures in this case), we’ll use the **Archidekt Search**.
 
-1. In the deck filters bar, click the orange "Card search" button.
-2. In the now displayed menu, click the "Syntax search" section in the top bar.
-3. Into the seach field, type the Scryfall expresion you want to search for ("t:elf -t:creature" in this case).
-4. At the top of the menu in he right side, click on the green "Search" button.
-5. Now you have a list of cards that adhere to your criteria (All noncreature elves in this case). To add a card, simply click the plus sign on the card you want to add to your decks.
-6. After you are done adding cards, click close and you will see all the cards you added in your deck.
+1. In the deck filters bar, click the orange **"Card Search"** button.
+2. In the displayed menu, click the **"Archidekt Search"** tab in the top bar.
+3. Open **Advanced Options**. You’ll see many empty fields with placeholder text.
+4. At the top of the *Advanced Options*, you’ll see six mana symbols. Uncheck all the symbols excluded from your color identity (*Red, Blue, and White* in this case).
+5. On the right side of the mana symbols, ensure the dropdown is set to **"Identity"**.
+6. Click the **"Type"** field, select **Creature**, then click the field again to confirm.
+7. In the **"Subtype"** field, type *Elf* and press Enter.
+8. At the top right of the menu, click the green **"Search"** button.
+9. A list of matching cards will appear (Elf creatures with a color identity of green and black). To add a card, click the plus sign next to it.
+10. When you’re done, click **Close**, and you will see all added cards in your deck.
 
-## Adding lands by Landbase 
-After we are done adding cards, all that is left is adding a landbase. We will add them by two means: By using Archidekts "Landbase" function and later by using "Import cards"
+## Adding Cards via Scryfall Syntax
 
-1. In the deck filters bar, click the orange "Card search" button.
-2. In the now displayed menu, click the "Landbase" section in the top bar.
-3. At the top of the menu in he right side, click on the green "Search" button.
-5. Now you have a list of cards that adhere to your criteria (Land cards adhering to your decks color identity). To add a card, simply click the plus sign on the card you want to add to your decks.
-6. After you are done adding cards, click close and you will see all the cards you added in your deck.
+After adding more cards via Archidekt, let’s try a quicker method: [Scryfall Syntax](https://scryfall.com/docs/syntax).  
+We’ll add noncreature Elf cards like [Elvish Promenade](https://scryfall.com/card/khc/59/elvish-promenade).
 
-## Adding cards by Import cards
-Archidekt (as well as many other sites) accept predefined formats of card lists, with the simplest being shown [here](https://github.com/VitezslavMusil/PDO/blob/main/import_landbase_example.txt).
+1. In the deck filters bar, click the orange **"Card Search"** button.
+2. In the displayed menu, click the **"Syntax Search"** tab.
+3. In the **Search** field, type the Scryfall expression you want (e.g. `"t:elf -t:creature"`).
+4. At the top right of the menu, click the green **"Search"** button.
+5. A list of cards matching your criteria will appear. Click the plus sign to add cards to your deck.
+6. When finished, click **Close** to return to your deck view.
 
-1. In the deck overview, click the "Import cards" button.
-2. You will see a list of already included cards. **DO NOT DELETE ANY OF THE TEXT, IT WILL REMOVE CARDS FROM THE DECK**
-3. At the end of the document, paste the text from the list of cards you want to include.
-4. At the bottom of the list on the list on the right side, click "Save changes".
-5. Close the menu. You should now see the importred cards in the card section.
+## Adding Lands via Landbase
+
+Once all nonland cards are added, we’ll add lands. This can be done in two ways: using **Archidekt’s Landbase** function, or using the **Import Cards** feature.
+
+1. In the deck filters bar, click the orange **"Card Search"** button.
+2. In the displayed menu, click the **"Landbase"** tab in the top bar.
+3. At the top right of the menu, click the green **"Search"** button.
+4. A list of suitable lands will appear. Click the plus sign to add them to your deck.
+5. Once done, click **Close** to return to your deck overview.
+
+## Adding Cards via Import Cards
+
+Archidekt (and many other sites) supports predefined formats for importing card lists.  
+You can find a simple example [here](https://github.com/VitezslavMusil/PDO/blob/main/import_landbase_example.txt).
+
+1. In the deck overview, click the **"Import Cards"** button.
+2. You will see a list of already included cards.  
+   **DO NOT DELETE ANY EXISTING TEXT – THIS WILL REMOVE CARDS FROM YOUR DECK.**
+3. At the end of the document, paste the list of additional cards you want to include.
+4. At the bottom right of the list, click **"Save Changes"**.
+5. Close the menu. You should now see the **imported** cards in the deck overview.
+
