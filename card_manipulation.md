@@ -21,8 +21,11 @@ The View As being refered here is Archidekt's default, Stacks
 ![obrazek](https://github.com/user-attachments/assets/f6f33c36-e08a-4476-bc2f-ab079be8e6de)
 
   - Combos - Fetches included/almost included combos in your deck from [Commander Spellbook](https://github.com/VitezslavMusil/PDO/blob/main/card_manipulation.md) complete with explanation
- - **Deck Import** - You may import lists or entire decks from a text file adhering to listed formats
 ![obrazek](https://github.com/user-attachments/assets/2891d513-6b70-4d74-8a06-c506bc7b1c42)
+
+ - **Deck Import** - You may import lists or entire decks from a text file adhering to listed formats
+![obrazek](https://github.com/user-attachments/assets/20e8918c-e80f-4c82-bc96-204c9afbcce3)
+
 
 ## Card categories
 - Unless specified, Archidekt has a default category for every card (Ramp for [Rampant Growth](https://scryfall.com/card/dsc/193/rampant-growth), Draw for [Quick Study](https://scryfall.com/card/fdn/513/quick-study) etc.)
