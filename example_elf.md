@@ -41,13 +41,31 @@ We’ve added a few cards we know off the top of our head. To find more cards of
 
 1. In the deck filters bar, click the orange **"Card Search"** button.
 2. In the displayed menu, click the **"Archidekt Search"** tab in the top bar.
+![obrazek](https://github.com/user-attachments/assets/16a5048f-cf35-427d-ab98-8700e2734b87)
+
 3. Open **Advanced Options**. You’ll see many empty fields with placeholder text.
+![obrazek](https://github.com/user-attachments/assets/de5f8831-ea0b-4b39-ad84-c6267c44b1c3)
+
 4. At the top of the *Advanced Options*, you’ll see six mana symbols. Uncheck all the symbols excluded from your color identity (*Red, Blue, and White* in this case).
-5. On the right side of the mana symbols, ensure the dropdown is set to **"Identity"**.
+![obrazek](https://github.com/user-attachments/assets/383695c3-cffd-40ef-ae71-1def0f3ddfa2)
+
+5. On the right side of the mana symbols, ensure the option is set to **"Identity"**.
+![obrazek](https://github.com/user-attachments/assets/648bd7d3-c7f3-4730-87d9-a0bcb1bab39a)
+
 6. Click the **"Type"** field, select **Creature**, then click the field again to confirm.
+![obrazek](https://github.com/user-attachments/assets/ce5f63cd-3d40-4582-9544-f035bd80a370)
+![obrazek](https://github.com/user-attachments/assets/72bccda2-0948-49ce-8849-6b1e02c000d2)
+
 7. In the **"Subtype"** field, type *Elf* and press Enter.
+![obrazek](https://github.com/user-attachments/assets/8b3d6474-227f-425d-b098-c031d861f2a6)
+![obrazek](https://github.com/user-attachments/assets/3c259d3c-acc0-4122-a6a3-1a7ba1a73236)
+
 8. At the top right of the menu, click the green **"Search"** button.
+![obrazek](https://github.com/user-attachments/assets/88bd740c-3700-4d51-886b-6e41e94fe2a4)
+
 9. A list of matching cards will appear (Elf creatures with a color identity of green and black). To add a card, click the plus sign next to it.
+![obrazek](https://github.com/user-attachments/assets/96ba8e7d-ce43-421e-8d46-55350bc16ee4)
+
 10. When you’re done, click **Close**, and you will see all added cards in your deck.
 
 ## Adding Cards via Scryfall Syntax
@@ -57,9 +75,15 @@ We’ll add noncreature Elf cards like [Elvish Promenade](https://scryfall.com/c
 
 1. In the deck filters bar, click the orange **"Card Search"** button.
 2. In the displayed menu, click the **"Syntax Search"** tab.
+![obrazek](https://github.com/user-attachments/assets/0f8aa17b-62a6-45b6-943d-180bc844de8a)
+
 3. In the **Search** field, type the Scryfall expression you want (e.g. `"t:elf -t:creature"`).
+![obrazek](https://github.com/user-attachments/assets/32f2a932-9d91-4788-b682-90743e7ada7a)
+
 4. At the top right of the menu, click the green **"Search"** button.
 5. A list of cards matching your criteria will appear. Click the plus sign to add cards to your deck.
+![obrazek](https://github.com/user-attachments/assets/6a808207-f3fa-4b00-bc1e-0b8707b495eb)
+
 6. When finished, click **Close** to return to your deck view.
 
 ## Adding Lands via Landbase
@@ -68,8 +92,12 @@ Once all nonland cards are added, we’ll add lands. This can be done in two way
 
 1. In the deck filters bar, click the orange **"Card Search"** button.
 2. In the displayed menu, click the **"Landbase"** tab in the top bar.
+![obrazek](https://github.com/user-attachments/assets/c2d5c853-71f0-460d-ab9c-7968ae375c14)
+
 3. At the top right of the menu, click the green **"Search"** button.
 4. A list of suitable lands will appear. Click the plus sign to add them to your deck.
+![obrazek](https://github.com/user-attachments/assets/199cdd06-5177-4778-bdba-dcc30dc1016e)
+
 5. Once done, click **Close** to return to your deck overview.
 
 ## Adding Cards via Import Cards
@@ -78,9 +106,15 @@ Archidekt (and many other sites) supports predefined formats for importing card 
 You can find a simple example [here](https://github.com/VitezslavMusil/PDO/blob/main/import_landbase_example.txt).
 
 1. In the deck overview, click the **"Import Cards"** button.
+![obrazek](https://github.com/user-attachments/assets/90e30a93-aecc-4038-8fc2-3d34d8aed420)
+
 2. You will see a list of already included cards.  
    **DO NOT DELETE ANY EXISTING TEXT – THIS WILL REMOVE CARDS FROM YOUR DECK.**
 3. At the end of the document, paste the list of additional cards you want to include.
+![obrazek](https://github.com/user-attachments/assets/f7c30683-47fc-4796-adfd-80cda4814139)
+![obrazek](https://github.com/user-attachments/assets/6ba5ddb7-f7a5-4e4e-9a86-a0d994095003)
+
+
 4. At the bottom right of the list, click **"Save Changes"**.
 5. Close the menu. You should now see the **imported** cards in the deck overview.
 
