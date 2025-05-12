@@ -11,8 +11,14 @@ Various methods for card manipulation will be used, with the resulting decklist 
 1. If you have an account, log in. If not, please register first.  
    **You will not be able to save your deck without an account.**
 2. On the main screen, click the orange **"New Deck"** button.
+![obrazek](https://github.com/user-attachments/assets/0382e642-b97c-4bb4-85ed-673f1506bbf8)
+
 3. You will be presented with a new deck options screen. Enter your deck name (*Lathril, Blade of the Elves (PDO)* in this case), and set the format to **Commander**.
+![obrazek](https://github.com/user-attachments/assets/b2c1de8c-619e-498e-88e1-604c05b7809e)
+
 4. Scroll down until you see the **"Command Zone"** field and enter the name of your commander (*Lathril, Blade of the Elves* in this case).
+![obrazek](https://github.com/user-attachments/assets/1bad532d-26dd-42ec-8451-607133c40c33)
+
 5. Click the green **"Create Deck"** button. A new, blank deck with your commander will now be ready to build.
 
 ## Adding Cards via Quick Add
@@ -22,7 +28,11 @@ There are certain cards that are auto-includes in Elf decks, like [Priest of Tit
 > **NOTE:** This method displays only card names before you add them to your deck. This may result in adding different cards with similar names due to autocomplete.
 
 1. In the deck filters bar, next to the orange **"Card Search"**, click into the **"Quick Add"** field.
+![obrazek](https://github.com/user-attachments/assets/fc1014bf-82f7-4733-bed0-876adb544d57)
+
 2. Type in part or the full name of the card (*Priest of Titania* in this case) and click on the correct result.
+![obrazek](https://github.com/user-attachments/assets/379a80a1-9132-43a8-aba5-efeec9c88105)
+
 3. The card is now added to your deck. You can continue adding cards in this way.
 
 ## Adding Cards via Archidekt Search
