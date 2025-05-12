@@ -1,6 +1,8 @@
 # Card menu options
 
-The Card menu can be accessed by either pressing the aroow on the right side of the card or by hovering over the card and pressing O.
+The Card menu can be accessed by either pressing the arrow on the right side of the card or by hovering over the card and pressing O.
+![obrazek](https://github.com/user-attachments/assets/18915621-e7c1-47ca-8028-0a25c084f189)
+
 
 1. **Card options** - Customize/specify parameters of a certain card, from choosing the version best to your liking to adding multiple categories to that card.
 2. **In decks** - Decks that **you made** containing a certain card, be It only by the card name or also more specificaly in versions (e.g. [Gadwick, the Wizened](https://scryfall.com/card/eld/48/gadwick-the-wizened) from Throne of Eldraine).
