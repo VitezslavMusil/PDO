@@ -8,12 +8,26 @@ Following contents are listed from top to bottom of Archidekt's deckbulding tool
 ![obrazek](https://github.com/user-attachments/assets/650d9e01-d022-4a16-b6d8-ca32aad38287)
 
 2. **Deck filters** - Adding cards, adjusting the veiw of cards, retailer selection section
+![obrazek](https://github.com/user-attachments/assets/ca6138af-ce1f-49ed-aa55-8b76461ddc68)
+
 3. **Card section** - Cards are displayed in their respective categories using criteria from the deck filters section
+![obrazek](https://github.com/user-attachments/assets/3be91d6d-c54d-473f-a338-fc0af02bd84a)
+
 4. **Deck stats** - Information about your mana curve, color distribution, count of cards in categories etc.
+![obrazek](https://github.com/user-attachments/assets/671d2aac-6139-47c7-a4e2-58f7dd64a682)
+
 5. **Deck Tokens & Extras** - Tokens, emblems, dungeons etc. your deck uses
+![obrazek](https://github.com/user-attachments/assets/2ea142bc-c55c-4d17-bb8e-257a332e9eac)
+
 6. Aritcles - Headlines of the newest articles on Archidekt
+![obrazek](https://github.com/user-attachments/assets/f631f19c-c724-4cb0-86c4-66af54237665)
+
 7. **Description** - Primer of the deck
+![obrazek](https://github.com/user-attachments/assets/ea87e22b-ec70-41d8-a401-712c061ecdb5)
+
 8. Comment section
+![obrazek](https://github.com/user-attachments/assets/34792f06-fa54-4061-929d-f2f0936d480a)
+
 
 ## Section details
 Below are some details in certain that might get confusing otherwise
