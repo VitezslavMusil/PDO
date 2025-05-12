@@ -15,12 +15,15 @@ The Card menu can be accessed by either pressing the arrow on the right side of 
 ![obrazek](https://github.com/user-attachments/assets/e3940171-10f5-42a8-b0fd-8f93a3ba6836)
 
 5. **Rulings** - Clarification of certain interactions of a certain card, pulled from [Gatherer](https://gatherer.wizards.com/Pages/Default.aspx).
-![obrazek](https://github.com/user-attachments/assets/9b93e40e-36e2-4722-befb-f9601512e48b)
+![obrazek](https://github.com/user-attachments/assets/107788b0-7e5c-4202-bd79-d7ed570c2554)
+
 
 ## Card options
  - **Printing** - Currently used version of a certain card, complete with colector's number and a preview on the left side
  - **Categories** - Categories for which the card is considered. On default, each card has one automatic category that is being assigned by Archidekt. This allows smoothing of percentages and a more detailed overview of the deck provided ou assign multiple categories to a certain card (e.g. [Sublime Epihany](https://scryfall.com/card/tdc/167/sublime-epiphany) being removal, card draw, bounce and a clone).
  - **All printings** - Displays all availible version of a certain card, allowing for easy choice of the version you like/have
+![obrazek](https://github.com/user-attachments/assets/29031707-df82-4982-982a-89db9729ff85)
+
 
  ### Other options
   - **Color tags** - The color tag a certain card will have. Those can be used for marking card you own, do not have, have ordered etc.
