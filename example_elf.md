@@ -14,6 +14,7 @@ Various methods for card manipulation will be used, with the resulting decklist 
 ![obrazek](https://github.com/user-attachments/assets/0382e642-b97c-4bb4-85ed-673f1506bbf8)
 
 3. You will be presented with a new deck options screen. Enter your deck name (*Lathril, Blade of the Elves (PDO)* in this case), and set the format to **Commander**.
+
 ![obrazek](https://github.com/user-attachments/assets/b2c1de8c-619e-498e-88e1-604c05b7809e)
 
 4. Scroll down until you see the **"Command Zone"** field and enter the name of your commander (*Lathril, Blade of the Elves* in this case).
